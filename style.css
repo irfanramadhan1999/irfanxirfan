@@ -1,0 +1,25 @@
+body {
+    font-family: 'Poppins', sans-serif;
+}
+
+/* awal navbar */
+.navbar-nav{
+    font-weight: 500;
+}
+.nav-link{
+    color: #6154A3 !important;
+}
+/* akhir navbar */
+
+/* awal hero */
+.judul-main {
+    color: #6154A3 !important;
+    font-weight:600 ;
+}
+#hero {
+    background-color: F9F8FF;
+}
+
+/* akhir hero */
+
+/* awal experience */
